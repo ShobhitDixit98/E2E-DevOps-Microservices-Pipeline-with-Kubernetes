@@ -158,5 +158,5 @@ MIT License
 This project is currently maintained by **Shobhit Dixit**.
 
 *   **Email:** iamshobhit98@gmail.com
-*   **GitHub:** [Shobhit Dixit](https://github.com/ShobhitDixit)
-*   **LinkedIn:** [Shobhit Dixit](https://www.linkedin.com/in/shobhitdixit)
+*   **GitHub:** [Shobhit Dixit](https://github.com/ShobhitDixit98)
+*   **LinkedIn:** [Shobhit Dixit](https://www.linkedin.com/in/shobhitdixit98/)
