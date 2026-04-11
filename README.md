@@ -157,8 +157,6 @@ MIT License
 
 This project is currently maintained by **Shobhit Dixit**.
 
-Shobhit is an AI/ML Engineer with nearly 5 years of experience building scalable machine learning and generative AI solutions across financial services and healthcare analytics environments. He specializes in Python, PyTorch, TensorFlow, and AWS for developing production ML pipelines and real-time inference systems. Shobhit is also experienced in LLM applications, RAG architectures, vector databases, and MLOps automation.
-
 *   **Email:** iamshobhit98@gmail.com
 *   **GitHub:** [Shobhit Dixit](https://github.com/ShobhitDixit)
 *   **LinkedIn:** [Shobhit Dixit](https://www.linkedin.com/in/shobhitdixit)
